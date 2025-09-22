@@ -2,7 +2,7 @@
 Projeto da aula de Sistemas Operacionais
 
 # Alunos Integrantes
- * BrunO Barbosa, RA: 112944;
+ * Bruno Barbosa, RA: 112944;
  * Luiz Augusto, 113363.
 
 OBS.: um aluno integrande do grupo pediu transferência de instituição de ensino, portanto, restam somente dois alunos no grupo.
